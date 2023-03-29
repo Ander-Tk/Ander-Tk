@@ -2,7 +2,7 @@
 
 ## Sobre mim
 ```
-  Olá, meu nome é Anderson Santos, tenho 21 anos, brasileiro.
+  Olá, meu nome é Anderson Santos, tenho 22 anos, brasileiro.
   Sou recém formado em sistemas de informação e estou procurando por experiências 
   para aprimorar minhas habilidades e maneiras de crescer como desenvolvedor
 ```
